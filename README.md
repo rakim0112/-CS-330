@@ -42,4 +42,4 @@ Originally developed as part of SNHU's CS-330 Computer Graphics and Visualizatio
 
 **Rakim Spriggs**  
 B.S. Computer Science — Southern New Hampshire University  
-Expected December 2026
+Expected November 2026
